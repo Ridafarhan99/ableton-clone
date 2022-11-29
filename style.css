@@ -1,0 +1,16 @@
+.active{
+    float: left;
+    margin: 4px;
+    padding: 0px 18px;
+}
+.navbar{
+    overflow: hidden;
+    list-style: none;
+}
+a:link{
+    text-decoration: none;
+}
+nav{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
