@@ -14,3 +14,6 @@ nav{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18px;
 }
+header{
+    border-bottom: 2px solid #E9E9E9;
+}
