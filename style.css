@@ -51,3 +51,14 @@ header{
     color: #ff764d;
     font-size: 4cm;
   }
+
+.desc{
+    align-self: center;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: 5pc;
+    font-size:x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 2.5pc;
+    font-weight:bold;
+}
