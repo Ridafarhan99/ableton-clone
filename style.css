@@ -62,3 +62,12 @@ header{
     line-height: 2.5pc;
     font-weight:bold;
 }
+.desc-two{
+    align-self: center;
+    margin-left: 25%;
+    margin-right: 18%;
+    margin-top: 2pc;
+    margin-bottom: 8pc;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
